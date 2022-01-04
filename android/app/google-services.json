@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "234465149982",
+    "project_id": "message-me-app-ad537",
+    "storage_bucket": "message-me-app-ad537.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234465149982:android:717170d8873a64d0941a0f",
+        "android_client_info": {
+          "package_name": "pr.Harith.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234465149982-u21maonl0fd0cs7p3s86v5gbdjejaf59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd2yJT50eU-OAkrnDj2K7EzwnkDR2j3hM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234465149982-u21maonl0fd0cs7p3s86v5gbdjejaf59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
